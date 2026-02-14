@@ -8,6 +8,7 @@ button.addEventListener(
     button.hidden = true;
     video.hidden = false;
     video.play();
+    video.volume = 1;
     video.requestFullscreen();
 
     video.addEventListener(
