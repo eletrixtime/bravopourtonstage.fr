@@ -4,6 +4,8 @@ Le but du site ? Tout est dans le titre !
 
 10€ le nom de domaine pour une blague de merde, but why not :)
 
+Idée donné par [Eletrix](https://github.com/eletrixtime) ^^
+
 ## Droits d'auteur
 
 Ce site a un but humoristique.
